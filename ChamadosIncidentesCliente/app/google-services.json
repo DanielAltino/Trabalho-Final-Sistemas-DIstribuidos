@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177050107540",
+    "firebase_url": "https://chamadoincidentecliente.firebaseio.com",
+    "project_id": "chamadoincidentecliente",
+    "storage_bucket": "chamadoincidentecliente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177050107540:android:b00eafc4a7fa051be27e81",
+        "android_client_info": {
+          "package_name": "com.example.chamadosincidentescliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177050107540-enj9jsm3o0e14gmsn225n86a4qhggg0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chamadosincidentescliente",
+            "certificate_hash": "675348a086f46296941fb839e3eccc531dc19e0e"
+          }
+        },
+        {
+          "client_id": "177050107540-1566stc1pud0olfua9k4he5d6ii0qoqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-yVvLwSUsZbL71Y64ZQz-8ckpx-lUQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177050107540-1566stc1pud0olfua9k4he5d6ii0qoqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
