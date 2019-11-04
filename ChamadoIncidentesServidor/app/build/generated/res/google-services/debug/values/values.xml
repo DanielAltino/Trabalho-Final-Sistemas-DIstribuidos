@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">67036450170-glpdqr1dl7k8eirvkv2dcao1ru4d92qe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chamadoincidentesservidor.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">67036450170</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDNlrMV0bNSMYV373m37bZ45G9e5iWjZQ</string>
+    <string name="google_app_id" translatable="false">1:67036450170:android:f2c8c537c8fd4a2d3c5ac3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDNlrMV0bNSMYV373m37bZ45G9e5iWjZQ</string>
+    <string name="google_storage_bucket" translatable="false">chamadoincidentesservidor.appspot.com</string>
+    <string name="project_id" translatable="false">chamadoincidentesservidor</string>
+</resources>
