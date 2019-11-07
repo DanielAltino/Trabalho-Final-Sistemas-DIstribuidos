@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
                 requisicao.setDescricao(editTextDescription.getText().toString());
                // requisicao.setFoto(ImagePath.toString());
                 //databaseReference.child("ID001").setValue(requisicao);
-                databaseReference.child(String.valueOf(IDBanco)).setValue(requisicao);
+                databaseReference.push().setValue(requisicao);
 
 
 
@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity {
 
 
                 IDBanco = dataSnapshot.getChildrenCount();
-                databaseReference.child(String.valueOf(IDBanco)).setValue(requisicao);
+                //databaseReference.child(String.valueOf(IDBanco + 1)).setValue(requisicao);
 
                 //Toast.makeText(MainActivity.this, "Dados inceridos", Toast.LENGTH_SHORT).show();
 
