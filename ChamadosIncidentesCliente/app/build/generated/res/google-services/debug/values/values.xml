@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">177050107540-1566stc1pud0olfua9k4he5d6ii0qoqf.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://chamadoincidentecliente.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">177050107540</string>
-    <string name="google_api_key" translatable="false">AIzaSyCS-yVvLwSUsZbL71Y64ZQz-8ckpx-lUQU</string>
-    <string name="google_app_id" translatable="false">1:177050107540:android:b00eafc4a7fa051be27e81</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCS-yVvLwSUsZbL71Y64ZQz-8ckpx-lUQU</string>
-    <string name="google_storage_bucket" translatable="false">chamadoincidentecliente.appspot.com</string>
-    <string name="project_id" translatable="false">chamadoincidentecliente</string>
+    <string name="default_web_client_id" translatable="false">67036450170-glpdqr1dl7k8eirvkv2dcao1ru4d92qe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chamadoincidentesservidor.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">67036450170</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDNlrMV0bNSMYV373m37bZ45G9e5iWjZQ</string>
+    <string name="google_app_id" translatable="false">1:67036450170:android:499317150186ad7b3c5ac3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDNlrMV0bNSMYV373m37bZ45G9e5iWjZQ</string>
+    <string name="google_storage_bucket" translatable="false">chamadoincidentesservidor.appspot.com</string>
+    <string name="project_id" translatable="false">chamadoincidentesservidor</string>
 </resources>

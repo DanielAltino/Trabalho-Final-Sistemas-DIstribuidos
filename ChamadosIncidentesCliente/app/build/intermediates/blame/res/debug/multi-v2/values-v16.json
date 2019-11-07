@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\danie\\AndroidStudioProjects\\ChamadosIncidentesCliente\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\danie\\Downloads\\TrabalhoFinalSD-master\\TrabalhoFinalSD-master\\ChamadosIncidentesCliente\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\7af9464903b8a503017df0a97e0258a2\\core-1.0.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\d856a2ad07d784cae061be131eb0ba9a\\core-1.0.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\85843906538799809b860890e03c3306\\appcompat-1.0.2\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\4b1d54629fa0914950d4d0ce1b8264ea\\appcompat-1.0.2\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

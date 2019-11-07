@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\danie\\AndroidStudioProjects\\ChamadoIncidentesServidor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "outputFile": "C:\\Users\\danie\\Downloads\\TrabalhoFinalSD-master\\TrabalhoFinalSD-master\\ChamadoIncidentesServidor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\57909c8c96b472756645fa5925b12695\\jetified-play-services-basement-16.1.0\\res\\values-pl\\values.xml",

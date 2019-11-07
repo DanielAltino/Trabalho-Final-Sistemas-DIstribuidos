@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\danie\\AndroidStudioProjects\\ChamadoIncidentesServidor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\danie\\Downloads\\TrabalhoFinalSD-master\\TrabalhoFinalSD-master\\ChamadoIncidentesServidor\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\danie\\.gradle\\caches\\transforms-2\\files-2.1\\dbe493a215c12b16b842e729f6d7f5f8\\appcompat-1.1.0\\res\\values-et\\values-et.xml",

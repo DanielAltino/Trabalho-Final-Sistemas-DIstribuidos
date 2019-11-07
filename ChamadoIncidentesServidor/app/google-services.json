@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "67036450170-mh7v67vtlvd7l1k1v5fg0initajpu4fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chamadoincidentesservidor",
+            "certificate_hash": "abbd0942873798ac52628c55dbdebe19f8b3e7db"
+          }
+        },
+        {
           "client_id": "67036450170-iljoig1jemaplliulu4tc9foq8f5gt1p.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
